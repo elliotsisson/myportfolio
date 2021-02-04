@@ -1,0 +1,42 @@
+body{
+    padding:5%;
+    background-image: url(./carback_fotor1.png);
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap");
+
+
+.table1{
+    background-color:rgba(26, 22, 22, 0.6);
+    max-width: "100%";
+    table-layout: auto;
+}
+
+h1{
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+    color: rgb(201, 184, 184);
+}
+
+h1 span{
+    background-color: rgba(26, 22, 22, 0.6);
+}
+
+h2{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+    color: rgb(242, 242, 247);
+}
+
+h3{
+    margin:0%;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: rgb(196, 223, 248);
+}
+
+h4{
+    margin:0%;
+    font-family: 'Raleway', sans-serif;
+    color: rgb(201, 184, 184);
+}
